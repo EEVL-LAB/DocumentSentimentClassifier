@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+numpy
+torch
+pandas
+transformers
+Korpora
+konlpy
+scikit-learn
+boto3

@@ -1,0 +1,5 @@
+.idea
+DS_Store
+report.txt
+__pycache__
+secret*
